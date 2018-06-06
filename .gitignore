@@ -1,0 +1,11 @@
+*.mdb
+*.ldb
+*.db
+*.sln
+*.config
+*.vcxproj
+*.filters
+
+Debug/
+Release/
+obj/
